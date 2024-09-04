@@ -89,6 +89,7 @@ pip install -r requirements.txt
 - [Make anonymous requests using Tor with Python](https://www.scrapehero.com/make-anonymous-requests-using-tor-python/)
 - [Make requests using Python over Tor](https://stackoverflow.com/questions/30286293/make-requests-using-python-over-tor)
 
+
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
