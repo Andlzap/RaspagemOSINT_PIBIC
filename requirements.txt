@@ -1,6 +1,7 @@
 certifi==2024.6.2
-chartset-normalizer==3.3.2
-idna==3.7
+charset-normalizer==3.3.2
+idna==3.8
+PySocks==1.7.1
 requests==2.32.3
 stem==1.8.2
 urllib3==2.2.1
