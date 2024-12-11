@@ -1,4 +1,4 @@
-# Projeto Tor Proxy com Python
+# PIBIC - CNPQ
 
 Este projeto configura o serviço Tor para realizar requisições anônimas usando Python. O objetivo é utilizar o Tor como proxy para anonimizar o tráfego HTTP através de uma configuração específica no sistema operacional e com bibliotecas específicas do Python.
 
