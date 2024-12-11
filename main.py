@@ -4,7 +4,7 @@ from utils.text_analysis_functions import TextAnalysis
 from dictionaries.criptos import criptosDictionary
 from dictionaries.crimes import crimesDictionary
 
-# Inicializando as classes
+#Classes
 tor_utils = TorUtils()
 regex_utils = RegexUtils()
 text_analysis = TextAnalysis(crimesDictionary)
