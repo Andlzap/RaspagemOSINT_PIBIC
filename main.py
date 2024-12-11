@@ -32,7 +32,6 @@ for onion in onionListList:
             print(f"______________________________________________________________________________________________________")
             file.write(f"Wallets: {regexSiteList}, Wallet type: {wallet}, Site: http://{onion}\n")
 
-        # Analisando texto em busca de crimes
         analysis = text_analysis.analyze(r.text)
         print(f"Crimes detected: {analysis}")
         file.write(f"Crimes detected: {analysis}")
